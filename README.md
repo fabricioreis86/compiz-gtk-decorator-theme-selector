@@ -1,4 +1,4 @@
-# compiz-gtk-decorator-theme-selector
+# Compiz GTK Decorator Theme Selector
 Scripts do seletor de temas Metacity para o Compiz.
 Testado no Linux Mint Tessa XFCE
 
@@ -10,3 +10,5 @@ Testado no Linux Mint Tessa XFCE
     - `sudo chmod +x /usr/local/bin/compiz-gtk-decorator-theme-selector`
 
 Abra o programa no menu do seu sistema.
+
+[Vídeo no YouTube](https://youtu.be/lSJWPzFRlig) (mas use o código daqui)
